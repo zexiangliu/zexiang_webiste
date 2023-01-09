@@ -1,0 +1,20 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+.photos {
+	margin: 40px 0 0 0;
+}
+
+.photo {
+	float: left;
+	box-sizing: border-box;
+	padding: 0 10px;
+	height: 350px;
+}
+
+.photo h2 {
+	font-size: 30px;
+}
+
+.image {
+}
