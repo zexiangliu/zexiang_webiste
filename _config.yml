@@ -53,6 +53,7 @@ kramdown:
   
 header_pages:
   - index.md
+  - research.md
   - publications.md
   - bio.md
   - gallery.md

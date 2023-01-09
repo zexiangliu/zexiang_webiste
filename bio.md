@@ -4,4 +4,4 @@ title: Bio
 permalink: /bio/
 ---
 
-I received my B.S. degree in Automation from School of Electronic Information and Electrical Engineering at Shanghai Jiaotong University in 2016 and my M.S. degree in ECE-robotics from University of Michgian.  
+I am a fifth-year PhD student at University of Michigan, under the supervision of Prof. Necmiye Ozay. Before that, I received a B.S. degree in Engineering from Shanghai Jiao Tong University in 2016, and an M.S. degree in Electrical and Computer Engineering from University of Michigan in 2018.
