@@ -6,6 +6,8 @@ permalink: /publications/
 
 ### Preprints
 
+- Liu, Zexiang, Necmiye Ozay, "[Quantifying the Value of Preview Information for Safety Control](https://arxiv.org/abs/2303.10660)" arXiv prepint arXiv:2303.10660 (2023)
+
 - Anevlavis, Tzanis, Zexiang Liu, Necmiye Ozay, and Paulo Tabuada. "[Controlled Invariant Sets: Implicit Closed-form Representations and Applications.](https://arxiv.org/pdf/2107.08566)" arXiv preprint arXiv:2107.08566 (2021).
 
 ### Journal Papers
