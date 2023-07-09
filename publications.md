@@ -6,9 +6,15 @@ permalink: /publications/
 
 ### Preprints
 
-- Anevlavis, Tzanis, Zexiang Liu, Necmiye Ozay, and Paulo Tabuada. "[Controlled invariant sets: implicit closed-form representations and applications.](https://arxiv.org/pdf/2107.08566)" arXiv preprint arXiv:2107.08566 (2021).
+- Anevlavis, Tzanis, Zexiang Liu, Necmiye Ozay, and Paulo Tabuada. "[Controlled Invariant Sets: Implicit Closed-form Representations and Applications.](https://arxiv.org/pdf/2107.08566)" arXiv preprint arXiv:2107.08566 (2021).
+
+### Journal Papers
+
+- Balim, Haldun, Antoine Aspeel, Zexiang Liu, and Necmiye Ozay, “[Koopman-inspired Implicit Backward Reachable Sets for Unknown Nonlinear Systems](https://arxiv.org/abs/2306.07113)”, IEEE Control Systems Letters, 2023.
 
 ### Conference Papers
+
+- Liu, Zexiang, Necmiye Ozay, and Eduardo Sontag, "[On the Non-Existence of Immersions for Systems with Multiple Omega-Limit Sets](http://ftp.eecs.umich.edu/~necmiye/pubs/LiuOS_ifac23.pdf)", IFAC World Congress, Yokohoma, Japan, July 2023 (to appear) 
 
 - Liu, Zexiang, and Necmiye Ozay. "[On the Convergence of the Backward Reachable Sets of Robust Controlled Invariant Sets For Discrete-time Linear Systems.](https://arxiv.org/pdf/2207.04726)" Proc. 61th IEEE Conference on Decision and Control (CDC), Cancun, Mexico, December 2022.
 
