@@ -13,10 +13,10 @@ layout: page
 
 <p title="bio">
 
-I am a fifth-year PhD student from Department of Electrical Engineering and Computer Science at Univerity of Michigan, supervised by <a href="https://web.eecs.umich.edu/~necmiye/index.html">Prof. Necmiye Ozay</a>.
+I am a fifth-year PhD student from Department of Electrical Engineering and Computer Science at Univerity of Michigan, supervised by <a href="https://web.eecs.umich.edu/~necmiye/index.html">Prof. Necmiye Ozay</a>. I will graduate in December this year and am looking for postdoc positions for 2024!
 </p>
 
-<p title="research interest"> My current research interests include safety control for systems with preview and delay, system identification and Koopman operator theory. </p>
+<p title="research interest"> My research interests include safety control for systems with predictions and input delay, system identification and Koopman operator theory. </p>
 
 Some projects I participated during undergraduate and master programs can be found from [my previous website](https://sites.google.com/site/zexiangliu2016/project).
 
