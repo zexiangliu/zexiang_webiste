@@ -18,8 +18,6 @@ I am a fifth-year PhD student from Department of Electrical Engineering and Comp
 
 <p title="research interest"> My research interests include safety control, system identification, and Koopman operator theory. </p>
 
-Some projects I participated during undergraduate and master programs can be found from [my previous website](https://sites.google.com/site/zexiangliu2016/project).
-
 <!--
 <div style="text-align: center">
 <img src="assets/images/me.JPG" height="350"/>
