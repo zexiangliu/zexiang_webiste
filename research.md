@@ -46,7 +46,7 @@ Many existing safety control methods, if not all, assume that the system starts 
 Learning-based methods have demonstrated promising performance in prediction and control of complex dynamics systems. In this project, we aim at uncovering some inherent limits in those methods. Our analysis involves studying the sample complexity of identifying ARX models with ordinary least squares, revealing a self-regularization property in over-parameterized models. We also present sufficient conditions where linear representations of nonlinear dynamics do not exist and how it impacts methods aiming at learning linear representations from data.
 
 
-- Du, Zhe*, Zexiang Liu*, Jack Weitze, and Necmiye Ozay. "[Sample Complexity Analysis and Self-regularization in Identification of Over-parameterized ARX Models.](https://deepblue.lib.umich.edu/handle/2027.42/174145)", Proc. 61th IEEE Conference on Decision and Control (CDC), Cancun, Mexico, December 2022.
+- Du, Zhe\*, Zexiang Liu\*, Jack Weitze, and Necmiye Ozay. "[Sample Complexity Analysis and Self-regularization in Identification of Over-parameterized ARX Models.](https://deepblue.lib.umich.edu/handle/2027.42/174145)", Proc. 61th IEEE Conference on Decision and Control (CDC), Cancun, Mexico, December 2022.
  
 - Liu, Zexiang, Necmiye Ozay, and Eduardo Sontag, "[On the Non-Existence of Immersions for Systems with Multiple Omega-Limit Sets](http://ftp.eecs.umich.edu/~necmiye/pubs/LiuOS_ifac23.pdf)", IFAC World Congress, Yokohoma, Japan, July 2023 (to appear) 
 

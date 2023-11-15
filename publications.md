@@ -21,7 +21,7 @@ permalink: /publications/
 
 - Liu, Zexiang, and Necmiye Ozay. "[On the Convergence of the Backward Reachable Sets of Robust Controlled Invariant Sets For Discrete-time Linear Systems.](https://arxiv.org/pdf/2207.04726)" Proc. 61th IEEE Conference on Decision and Control (CDC), Cancun, Mexico, December 2022.
 
-- Du, Zhe*, Zexiang Liu*, Jack Weitze, and Necmiye Ozay. "[Sample Complexity Analysis and Self-regularization in Identification of Over-parameterized ARX Models.](https://deepblue.lib.umich.edu/handle/2027.42/174145)", Proc. 61th IEEE Conference on Decision and Control (CDC), Cancun, Mexico, December 2022.
+- Du, Zhe\*, Zexiang Liu\*, Jack Weitze, and Necmiye Ozay. "[Sample Complexity Analysis and Self-regularization in Identification of Over-parameterized ARX Models.](https://deepblue.lib.umich.edu/handle/2027.42/174145)", Proc. 61th IEEE Conference on Decision and Control (CDC), Cancun, Mexico, December 2022.
 
 - Li, Dan, Mohamad Louai Shehab, Zexiang Liu, Nikos Aréchiga, Jonathan DeCastro, and Necmiye Ozay. "[Outlier-robust Inverse Reinforcement Learning and Reward-based Detection of Anomalous Driving Behaviors.](https://web.eecs.umich.edu/~necmiye/pubs/Li+_itsc22.pdf)" In 2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC), pp. 4175-4182. IEEE, 2022.
 
