@@ -13,10 +13,13 @@ layout: page
 
 <p title="bio">
 
-I am a fifth-year PhD student from Department of Electrical Engineering and Computer Science at Univerity of Michigan, supervised by <a href="https://web.eecs.umich.edu/~necmiye/index.html">Prof. Necmiye Ozay</a>. I will graduate in December this year and am looking for postdoc positions for 2024!
+I am a fifth-year PhD student from Department of Electrical Engineering and Computer Science at Univerity of Michigan, supervised by <a href="https://web.eecs.umich.edu/~necmiye/index.html">Prof. Necmiye Ozay</a>. 
+ Anticipating graduation in December of this year, I am currently exploring opportunities for research positions, both in postdoctoral roles and within the industry, with a planned start date in 2024.
 </p>
 
 <p title="research interest"> My research interests include safety control, system identification, and Koopman operator theory. </p>
+
+<!-- Some projects I participated during undergraduate and master programs can be found from [my previous website](https://sites.google.com/site/zexiangliu2016/project). -->
 
 <!--
 <div style="text-align: center">

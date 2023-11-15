@@ -6,11 +6,12 @@ permalink: /publications/
 
 ### Preprints
 
-- Liu, Zexiang, Necmiye Ozay, "[Quantifying the Value of Preview Information for Safety Control](https://arxiv.org/abs/2303.10660)" arXiv prepint arXiv:2303.10660 (2023)
+- Liu, Zexiang, Hao Chen, Yulong Gao, and Necmiye Ozay, "[Opportunistic Safety Outside the Maximal Controlled Invariant Set](https://web.eecs.umich.edu/~necmiye/pubs/LiuCGO_draft23.pdf)", submitted for journal publication, 2023 [(website)](https://haochern.github.io/OpSafe/)
+- Liu, Zexiang and Necmiye Ozay, "[Quantifying the Value of Preview Information for Safety Control](https://arxiv.org/abs/2303.10660)" arXiv prepint arXiv:2303.10660 (2023)
 
-- Anevlavis, Tzanis, Zexiang Liu, Necmiye Ozay, and Paulo Tabuada. "[Controlled Invariant Sets: Implicit Closed-form Representations and Applications.](https://arxiv.org/pdf/2107.08566)" arXiv preprint arXiv:2107.08566 (2021).
 
 ### Journal Papers
+- Anevlavis, Tzanis\*, Zexiang Liu\*, Necmiye Ozay, and Paulo Tabuada. "[Controlled Invariant Sets: Implicit Closed-form Representations and Applications](https://arxiv.org/pdf/2107.08566)", Transactions on Automatic Control (TAC), 2023 (to appear)
 
 - Balim, Haldun, Antoine Aspeel, Zexiang Liu, and Necmiye Ozay, “[Koopman-inspired Implicit Backward Reachable Sets for Unknown Nonlinear Systems](https://arxiv.org/abs/2306.07113)”, IEEE Control Systems Letters, 2023.
 
@@ -20,7 +21,7 @@ permalink: /publications/
 
 - Liu, Zexiang, and Necmiye Ozay. "[On the Convergence of the Backward Reachable Sets of Robust Controlled Invariant Sets For Discrete-time Linear Systems.](https://arxiv.org/pdf/2207.04726)" Proc. 61th IEEE Conference on Decision and Control (CDC), Cancun, Mexico, December 2022.
 
-- Du, Zhe, Zexiang Liu, Jack Weitze, and Necmiye Ozay. "[Sample Complexity Analysis and Self-regularization in Identification of Over-parameterized ARX Models.](https://deepblue.lib.umich.edu/handle/2027.42/174145)", Proc. 61th IEEE Conference on Decision and Control (CDC), Cancun, Mexico, December 2022.
+- Du, Zhe*, Zexiang Liu*, Jack Weitze, and Necmiye Ozay. "[Sample Complexity Analysis and Self-regularization in Identification of Over-parameterized ARX Models.](https://deepblue.lib.umich.edu/handle/2027.42/174145)", Proc. 61th IEEE Conference on Decision and Control (CDC), Cancun, Mexico, December 2022.
 
 - Li, Dan, Mohamad Louai Shehab, Zexiang Liu, Nikos Aréchiga, Jonathan DeCastro, and Necmiye Ozay. "[Outlier-robust Inverse Reinforcement Learning and Reward-based Detection of Anomalous Driving Behaviors.](https://web.eecs.umich.edu/~necmiye/pubs/Li+_itsc22.pdf)" In 2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC), pp. 4175-4182. IEEE, 2022.
 
@@ -34,10 +35,10 @@ permalink: /publications/
 
 - Liu, Zexiang, and Necmiye Ozay. "[Safe online planning in unknown nonconvex environments with implicit controlled invariant sets.](https://par.nsf.gov/servlets/purl/10309905)" IFAC-PapersOnLine 54, no. 5 (2021): 163-168.
 
-- Arwashan, Michael, Ge, Tiancheng, Liu, Zexiang and Ozay, Necmiye. "[Driving with guardian: Blending user inputs with safety ensuring barriers](https://ieeexplore.ieee.org/abstract/document/9206270)", Proc. IEEE Conference on Control Technology and Applications (CCTA), Montreal, Canada, August 2020.
+- Arwashan, Michael, Tiancheng Ge, Zexiang Liu and Necmiye Ozay. "[Driving with guardian: Blending user inputs with safety ensuring barriers](https://ieeexplore.ieee.org/abstract/document/9206270)", Proc. IEEE Conference on Control Technology and Applications (CCTA), Montreal, Canada, August 2020.
 
 
-- Liu, Zexiang, Yang, Liren and Necmiye Ozay. "[Scalable Computation of Controlled Invariant Sets for Discrete-Time Linear Systems with Input Delays](https://arxiv.org/abs/2003.04953)", Proc. American Control Conference (ACC), Denver, CO, July 2020 (accepted).
+- Liu, Zexiang, Yang, Liren and Necmiye Ozay. "[Scalable Computation of Controlled Invariant Sets for Discrete-Time Linear Systems with Input Delays](https://arxiv.org/abs/2003.04953)", Proc. American Control Conference (ACC), Denver, CO, July 2020.
 
 - Liu, Zexiang, and Necmiye Ozay. "[Safety control with preview automaton](https://arxiv.org/abs/1907.04935)", Proc. 58th IEEE Conference on Decision and Control (CDC), Nice, France, December 2019
 
