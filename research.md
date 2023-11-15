@@ -37,7 +37,7 @@ Many existing safety control methods, if not all, assume that the system starts 
 - Liu, Zexiang, Hao Chen, Yulong Gao, and Necmiye Ozay, "[Opportunistic Safety Outside the Maximal Controlled Invariant Set](https://web.eecs.umich.edu/~necmiye/pubs/LiuCGO_draft23.pdf)", submitted for journal publication, 2023 [(website)](https://haochern.github.io/OpSafe/)
 
 <div class="image" style="float:right; padding: 5px; max-width: 300px; max-height: 400px;">
-    <img src="../../assets/images/koopman.svg" width="80%" height="80%"/>
+    <img src="../../assets/images/koopman.png" width="80%" height="80%"/>
     <p> 1D example showing a linear immersion may  exist for systems with multiple  equilibria.</p>
 </div>
 
