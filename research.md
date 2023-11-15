@@ -10,8 +10,8 @@ My research is focused on enhancing the safety of autonomous systems, such as se
 ### Scalable Safety Controller Synthesis by Exploiting Structures
 
 
-<div class="photo" style="float:right; padding: 5px">
-    <iframe width="560" height="315" style="float:right; padding: 5px" src="https://www.youtube.com/embed/mB9ir0R9bzM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="image" style="float:right; padding: 5px; height: 300px">
+    <iframe style="float:right; padding: 5px" src="https://www.youtube.com/embed/mB9ir0R9bzM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <p> Safe online planning in unknown environment using implicit RCIS</p>
 </div>
 
@@ -25,8 +25,8 @@ Additionally, for systems with special structures like input delay, we show its 
 
 ### Safety Control Beyond the Maximal Controlled Invariant Set 
 
-<div class="photo" style="float:right; padding: 5px">
-    <iframe width="560" height="315" style="float:right; padding: 5px" src="https://www.youtube.com/embed/EDRQq_q4LIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="image" style="float:right; padding: 5px; height: 400px;">
+    <iframe  style="float:right; padding: 5px" src="https://www.youtube.com/embed/EDRQq_q4LIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <p> Opportunistic safety control vs robust safety control on a drone</p>
 </div>
 Many existing safety control methods, if not all, assume that the system starts within a robust controlled invariant set (RCIS), and fail to generate control inputs once the system deviate from the maximal RCIS. This makes those methods vunerable to unmodeling dynamics or unexpected disturbances that can cause accidental exit of the maximal RCIS. In this project, we first conduct a formal analysis to determine the expanded safe operation region beyond the maximal RCIS by incorporating predictions on disturbances. In addition, we introduce a novel safety control framework, called opportunistic safety control, that operates beyond the maximal RCIS by minimally weakening disturbance constraints. 
@@ -36,12 +36,12 @@ Many existing safety control methods, if not all, assume that the system starts 
 
 - Liu, Zexiang, Hao Chen, Yulong Gao, and Necmiye Ozay, "[Opportunistic Safety Outside the Maximal Controlled Invariant Set](https://web.eecs.umich.edu/~necmiye/pubs/LiuCGO_draft23.pdf)", submitted for journal publication, 2023 [(website)](https://haochern.github.io/OpSafe/)
 
-### Fundamental Limits of Learning Dynamics and Control
-
-<div class="photo" style="float:right; padding: 5px">
-    <img src="../../assets/images/koopman.svg" height="300"/>
-    <p> 1D example showing a <br> linear immersion may <br>  exist for systems with  <br> multiple  equilibria.</p>
+<div class="image" style="float:right; padding: 5px; max-width: 300px; max-height: 400px;">
+    <img src="../../assets/images/koopman.svg" width="80%" height="80%"/>
+    <p> 1D example showing a linear immersion may  exist for systems with multiple  equilibria.</p>
 </div>
+
+### Fundamental Limits of Learning Dynamics and Control
 
 Learning-based methods have demonstrated promising performance in prediction and control of complex dynamics systems. In this project, we aim at uncovering some inherent limits in those methods. Our analysis involves studying the sample complexity of identifying ARX models with ordinary least squares, revealing a self-regularization property in over-parameterized models. We also present sufficient conditions where linear representations of nonlinear dynamics do not exist and how it impacts methods aiming at learning linear representations from data.
 

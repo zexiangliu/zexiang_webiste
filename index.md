@@ -17,7 +17,7 @@ I am a fifth-year PhD student from Department of Electrical Engineering and Comp
  Anticipating graduation in December of this year, I am currently exploring opportunities for research positions, both in postdoctoral roles and within the industry, with a planned start date in 2024.
 </p>
 
-<p title="research interest"> My research interests include safety control, system identification, and Koopman operator theory. </p>
+<p title="research interest"> My current research interests include formal methods, safety control, system identification, data-driven control, and Koopman operator theory. </p>
 
 <!-- Some projects I participated during undergraduate and master programs can be found from [my previous website](https://sites.google.com/site/zexiangliu2016/project). -->
 

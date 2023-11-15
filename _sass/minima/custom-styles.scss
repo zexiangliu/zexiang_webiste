@@ -16,5 +16,32 @@
 	font-size: 30px;
 }
 
-.image {
+.photo img {
+	max-height: 320px;
+	width: auto;
+}
+
+.year-section {
+  margin-bottom: 20px; /* Adjust as needed */
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.image{
+	float: left;
+	box-sizing: border-box;
+	padding: 0 10px;
+	margin-bottom: 30px;
+}
+
+.image iframe {
+    width: 100%;
+    height: 80%;
+}
+
+.image:after {
+    content: ""; /* Create a pseudo-element to clear the float */
+    display: table;
+    clear: both;
 }

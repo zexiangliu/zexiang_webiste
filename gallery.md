@@ -3,84 +3,24 @@ layout: page
 title: Gallery
 permalink: /gallery/
 ---
-## 2023
-
-<hr>
-
-<div class="photos">
-  {% for photo in site.gallery %}
-    {% if photo.info contains "2023" %}
-      <div class="photo">
-	{% if photo.size == "l" %}
-	  <img src="{{ photo.image_path }}" alt="{{ photo.info }}" height="320"/>
-	{% elsif photo.size == "p" %}
-          <img src="{{ photo.image_path }}" alt="{{ photo.info }}" height="320"/>
-	{% endif %}
-        <p>{{ photo.info }}</p>
-        <p>{{ photo.description }}</p>
-      </div>
-    {% endif %}
-  {% endfor %}
-</div>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-## 2022
-
-<hr>
-
-<div class="photos">
-  {% for photo in site.gallery %}
-    {% if photo.info contains "2022" %}
-      <div class="photo">
-	{% if photo.size == "l" %}
-	  <img src="{{ photo.image_path }}" alt="{{ photo.info }}" height="320"/>
-	{% elsif photo.size == "p" %}
-          <img src="{{ photo.image_path }}" alt="{{ photo.info }}" height="320"/>
-	{% endif %}
-        <p>{{ photo.info }}</p>
-        <p>{{ photo.description }}</p>
-      </div>
-    {% endif %}
-  {% endfor %}
-</div>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-## 2021
-
-<hr>
-
-<div class="photos">
-  {% for photo in site.gallery %}
-    {% if photo.info contains "2021" %}
-      <div class="photo">
-	{% if photo.size == "l" %}
-	  <img src="{{ photo.image_path }}" alt="{{ photo.info }}" height="320"/>
-	{% elsif photo.size == "p" %}
-          <img src="{{ photo.image_path }}" alt="{{ photo.info }}" height="320"/>
-	{% endif %}
-        <p>{{ photo.info }}</p>
-        <p>{{ photo.description }}</p>
-      </div>
-    {% endif %}
-  {% endfor %}
-</div>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
-
-## 2019
-<hr>
-
-<div class="photos">
-  {% for photo in site.gallery %}
-    {% if photo.info contains "2019" %}
-      <div class="photo">
-	{% if photo.size == "l" %}
-	  <img src="{{ photo.image_path }}" alt="{{ photo.info }}" height="320"/>
-	{% elsif photo.size == "p" %}
-          <img src="{{ photo.image_path }}" alt="{{ photo.info }}" height="320"/>
-	{% endif %}
-        <p>{{ photo.info }}</p>
-        <p>{{ photo.description }}</p>
-      </div>
-    {% endif %}
-  {% endfor %}
-</div>
+{% assign unique_years = site.gallery | map: "year" | uniq | sort | reverse%}
+{% assign gallery = site.gallery | reverse%}
+{% for year in unique_years %}
+  <div class="year-section">
+    <h2>{{ year }}</h2>
+    <hr>
+    <div class="photos">
+      {% for photo in gallery %}
+        {% if photo.year == year %}
+          <div class="photo">
+            {% if photo.size == "l" or photo.size == "p" %}
+              <img src="{{ photo.image_path }}" alt="{{ photo.info }}"/>
+            {% endif %}
+            <p>{{ photo.info }}</p>
+            <p>{{ photo.description }}</p>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+{% endfor %}
