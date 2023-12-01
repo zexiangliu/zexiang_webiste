@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### Preprints
 
-- Liu, Zexiang, Hao Chen, Yulong Gao, and Necmiye Ozay, "[Opportunistic Safety Outside the Maximal Controlled Invariant Set](https://web.eecs.umich.edu/~necmiye/pubs/LiuCGO_draft23.pdf)", submitted for journal publication, 2023 [(website)](https://haochern.github.io/OpSafe/)
+- Liu, Zexiang, Hao Chen, Yulong Gao, and Necmiye Ozay, "[Opportunistic Safety Outside the Maximal Controlled Invariant Set](https://web.eecs.umich.edu/~necmiye/pubs/LiuCGO_draft23.pdf)", submitted for journal publication, 2023 [(website)](https://ozay-group.github.io/OppSafe/)
 - Liu, Zexiang and Necmiye Ozay, "[Quantifying the Value of Preview Information for Safety Control](https://arxiv.org/abs/2303.10660)" arXiv prepint arXiv:2303.10660 (2023)
 
 
