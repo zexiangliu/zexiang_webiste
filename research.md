@@ -21,7 +21,7 @@ Additionally, for systems with special structures like input delay, we show its 
 
 - Anevlavis, Tzanis\*, Zexiang Liu\*, Necmiye Ozay, and Paulo Tabuada. "[Controlled Invariant Sets: Implicit Closed-form Representations and Applications](https://arxiv.org/pdf/2107.08566)", Transactions on Automatic Control (TAC), 2023 (to appear)
 
-- Liu, Zexiang, Yang, Liren and Necmiye Ozay. "[Scalable Computation of Controlled Invariant Sets for Discrete-Time Linear Systems with Input Delays](https://arxiv.org/abs/2003.04953)", Proc. American Control Conference (ACC), Denver, CO, July 2020.
+- Liu, Zexiang, Liren Yang, and Necmiye Ozay. "[Scalable Computation of Controlled Invariant Sets for Discrete-Time Linear Systems with Input Delays](https://arxiv.org/abs/2003.04953)", Proc. American Control Conference (ACC), Denver, CO, July 2020.
 
 ### Safety Control Beyond the Maximal Controlled Invariant Set 
 
@@ -61,7 +61,7 @@ A list of projects I participated during my undergraduate and master program can
 
 ---
 
-## Some Fun Projects 
+<!-- ## Some Fun Projects  -->
 
 
 

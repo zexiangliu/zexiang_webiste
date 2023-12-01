@@ -35,10 +35,10 @@ permalink: /publications/
 
 - Liu, Zexiang, and Necmiye Ozay. "[Safe online planning in unknown nonconvex environments with implicit controlled invariant sets.](https://par.nsf.gov/servlets/purl/10309905)" IFAC-PapersOnLine 54, no. 5 (2021): 163-168.
 
-- Arwashan, Michael, Tiancheng Ge, Zexiang Liu and Necmiye Ozay. "[Driving with guardian: Blending user inputs with safety ensuring barriers](https://ieeexplore.ieee.org/abstract/document/9206270)", Proc. IEEE Conference on Control Technology and Applications (CCTA), Montreal, Canada, August 2020.
+- Arwashan, Michael, Tiancheng Ge, Zexiang Liu, and Necmiye Ozay. "[Driving with guardian: Blending user inputs with safety ensuring barriers](https://ieeexplore.ieee.org/abstract/document/9206270)", Proc. IEEE Conference on Control Technology and Applications (CCTA), Montreal, Canada, August 2020.
 
 
-- Liu, Zexiang, Yang, Liren and Necmiye Ozay. "[Scalable Computation of Controlled Invariant Sets for Discrete-Time Linear Systems with Input Delays](https://arxiv.org/abs/2003.04953)", Proc. American Control Conference (ACC), Denver, CO, July 2020.
+- Liu, Zexiang, Liren Yang, and Necmiye Ozay. "[Scalable Computation of Controlled Invariant Sets for Discrete-Time Linear Systems with Input Delays](https://arxiv.org/abs/2003.04953)", Proc. American Control Conference (ACC), Denver, CO, July 2020.
 
 - Liu, Zexiang, and Necmiye Ozay. "[Safety control with preview automaton](https://arxiv.org/abs/1907.04935)", Proc. 58th IEEE Conference on Decision and Control (CDC), Nice, France, December 2019
 
