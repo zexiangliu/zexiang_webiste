@@ -11,7 +11,7 @@ permalink: /publications/
 
 
 ### Journal Papers
-- Anevlavis, Tzanis\*, Zexiang Liu\*, Necmiye Ozay, and Paulo Tabuada. "[Controlled Invariant Sets: Implicit Closed-form Representations and Applications](https://arxiv.org/pdf/2107.08566)", Transactions on Automatic Control (TAC), 2023 (to appear)
+- Anevlavis, Tzanis\*, Zexiang Liu\*, Necmiye Ozay, and Paulo Tabuada. "[Controlled Invariant Sets: Implicit Closed-form Representations and Applications](https://arxiv.org/pdf/2107.08566)", IEEE Transactions on Automatic Control (TAC), 2023 (to appear)
 
 - Balim, Haldun, Antoine Aspeel, Zexiang Liu, and Necmiye Ozay, “[Koopman-inspired Implicit Backward Reachable Sets for Unknown Nonlinear Systems](https://arxiv.org/abs/2306.07113)”, IEEE Control Systems Letters, 2023.
 

@@ -19,7 +19,7 @@ Safety control methods often do not scale to high-dimensional systems, limiting 
 Additionally, for systems with special structures like input delay, we show its maximal RCIS is embedded in a lower dimensional system, which enables scalable safety control synthesis for systems with hundreds of input delay steps. 
 
 
-- Anevlavis, Tzanis\*, Zexiang Liu\*, Necmiye Ozay, and Paulo Tabuada. "[Controlled Invariant Sets: Implicit Closed-form Representations and Applications](https://arxiv.org/pdf/2107.08566)", Transactions on Automatic Control (TAC), 2023 (to appear)
+- Anevlavis, Tzanis\*, Zexiang Liu\*, Necmiye Ozay, and Paulo Tabuada. "[Controlled Invariant Sets: Implicit Closed-form Representations and Applications](https://arxiv.org/pdf/2107.08566)", IEEE Transactions on Automatic Control (TAC), 2023 (to appear)
 
 - Liu, Zexiang, Liren Yang, and Necmiye Ozay. "[Scalable Computation of Controlled Invariant Sets for Discrete-Time Linear Systems with Input Delays](https://arxiv.org/abs/2003.04953)", Proc. American Control Conference (ACC), Denver, CO, July 2020.
 
