@@ -6,12 +6,15 @@ permalink: /publications/
 
 ### Preprints
 
-- Liu, Zexiang, Hao Chen, Yulong Gao, and Necmiye Ozay, "[Opportunistic Safety Outside the Maximal Controlled Invariant Set](https://web.eecs.umich.edu/~necmiye/pubs/LiuCGO_draft23.pdf)", submitted for journal publication, 2023 [(website)](https://ozay-group.github.io/OppSafe/)
-- Liu, Zexiang and Necmiye Ozay, "[Quantifying the Value of Preview Information for Safety Control](https://arxiv.org/abs/2303.10660)" arXiv prepint arXiv:2303.10660 (2023)
+- Liu, Zexiang, Necmiye Ozay, Eduardo Sontag, "[Properties of Immersions for Systems with Multiple Limit Sets with Implications to Learning Koopman Embeddings](https://arxiv.org/abs/2312.17045)", arXiv preprint arXiv:2312.17045 (2023)
+
+- Liu, Zexiang and Necmiye Ozay, "[Quantifying the Value of Preview Information for Safety Control](https://arxiv.org/abs/2303.10660)" arXiv preprint arXiv:2303.10660 (2023)
 
 
 ### Journal Papers
-- Anevlavis, Tzanis\*, Zexiang Liu\*, Necmiye Ozay, and Paulo Tabuada. "[Controlled Invariant Sets: Implicit Closed-form Representations and Applications](https://arxiv.org/pdf/2107.08566)", IEEE Transactions on Automatic Control (TAC), 2023 (to appear)
+- Liu, Zexiang, Hao Chen, Yulong Gao, and Necmiye Ozay, "[Opportunistic Safety Outside the Maximal Controlled Invariant Set](https://web.eecs.umich.edu/~necmiye/pubs/LiuCGO_draft23.pdf)", IEEE Control Systems Letters, 2023 [(website)](https://ozay-group.github.io/OppSafe/)
+
+- Anevlavis, Tzanis\*, Zexiang Liu\*, Necmiye Ozay, and Paulo Tabuada. "[Controlled Invariant Sets: Implicit Closed-form Representations and Applications](https://arxiv.org/pdf/2107.08566)", IEEE Transactions on Automatic Control (TAC), 2023.
 
 - Balim, Haldun, Antoine Aspeel, Zexiang Liu, and Necmiye Ozay, “[Koopman-inspired Implicit Backward Reachable Sets for Unknown Nonlinear Systems](https://arxiv.org/abs/2306.07113)”, IEEE Control Systems Letters, 2023.
 
