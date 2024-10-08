@@ -6,7 +6,7 @@ permalink: /research/
 
 My research is focused on enhancing the safety of autonomous systems, such as self-driving vehicles and mobile robots, using theoretical or algorithmic tools from system theory,  optimization, computational geometry, and machine learning.  Beyond safety control, part of my research aims at understanding fundamental limitations of learning-based methods for prediction and control, so that we know when to apply those methods and how to improve their performance and reliability. Several research projects I have undertaken are summarized below. 
 
-## On-going Projects
+## Projects
 ### Scalable Safety Controller Synthesis by Exploiting Structures
 
 
@@ -55,11 +55,11 @@ Learning-based methods have demonstrated promising performance in prediction and
 <br>
 <br>
 
----
+<!-- ---
 ## Previous Projects
 A list of projects I participated during my undergraduate and master program can be found in [here](https://sites.google.com/site/zexiangliu2016/project).
 
----
+--- -->
 
 <!-- ## Some Fun Projects  -->
 
